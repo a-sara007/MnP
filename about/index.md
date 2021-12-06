@@ -202,6 +202,9 @@ The best fodder to develop oneself is a perseverant thought process, our fortnig
 
 All in all, we are a self-sustaining community of intellectuals, students & professors, across ages and departments, who enjoy sharing knowledge through platforms provided by our club​ and if you talk Physics and Maths, there is no better place for you than the Maths and Physics Club, IIT Bombay.
 
+**For those of you here for the crypt hunt, here we go with the question, onward fellow enthusiasts:**
+In the summer where the solution for the two equations for sum of cubes were solved, instizens were upto something scientifically  fabulous. Enter the name of the picture with 7 donuts and mugs.
+
 ##                                Our Vision
 
 MnP envisions itself as a platform to build community of passionate scientists and engineers; as a force to make that miracle happen in the institute. We, as a club, aim to reignite the inquisitiveness for the basic sciences. We aspire to establish a stigma free community within IITB wherein any enthusiast can initiate discussions, organise events without any hesitation. We have come so far from what we started, but there are still miles to go, and many enthusiasts to claim.
