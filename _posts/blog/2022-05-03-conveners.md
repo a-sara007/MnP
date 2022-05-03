@@ -33,8 +33,8 @@ Knowing all this, I believe that the club has a worthy mission on its hands, and
 who themselves love Maths & Physics (and the art of scientific understanding) and are passionate enough to come up with ways to communicate and share this love and joy
 with other people! It's exciting to think about the kind of far-reaching impact all this will directly/indirectly have on the students of IIT Bombay!
 
-Looking forward to interacting with prospective members of the team,
-Regards,
-Tharun and Dhawal,
-Managers, Maths and Physics Club,
+Looking forward to interacting with prospective members of the team,//
+Regards,//
+Tharun and Dhawal,//
+Managers, Maths and Physics Club,//
 IIT Bombay
