@@ -7,7 +7,7 @@ image:
   feature: About_img.png
 manager7:
   name: Tharun Mahesh
-  image: convener28.jpg
+  image: manager7.jpg
   fblink: https://www.facebook.com/tharun.mahesh.90/
   instalink: https://www.instagram.com/tharun_mah3sh/
 manager8:
@@ -17,27 +17,27 @@ manager8:
   instalink: https://www.instagram.com/notdhawal/
 convener34:
   name: Ameya Vikrama Singh
-  image: 
+  image: convener34.png
   instalink: https://www.instagram.com/joester1789/
 convener33:
   name: Anand Narasimhan
-  image: 
+  image: convener33.png
   instalink: https://www.instagram.com/not_quite_anand/
 convener32:
   name: Jainam Sanghvi
-  image: 
+  image: convener32.png
   instalink: https://www.instagram.com/jainamsanghvi.js/
 convener31:
   name: Madhav Gupta
-  image: 
+  image: convener31.png
   instalink: https://www.instagram.com/madhavgupta16/
 convener30:
   name: Shivangi Kundu
-  image: 
+  image: convener30.png
   instalink: https://www.instagram.com/shivangi_kundu13/
 convener29:
   name: Vedika Rathi
-  image: 
+  image: convener29.png
   instalink: https://www.instagram.com/vedika_rathi_11/
 convener28:
   name: Tharun Mahesh
