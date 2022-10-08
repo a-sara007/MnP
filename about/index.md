@@ -5,6 +5,40 @@ excerpt: "Maths And Physics Club is"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: About_img.png
+manager7:
+  name: Tharun Mahesh
+  image: convener28.jpg
+  fblink: https://www.facebook.com/tharun.mahesh.90/
+  instalink: https://www.instagram.com/tharun_mah3sh/
+manager8:
+  name: Dhawal Singh
+  image: convener25.jpg
+  fblink: https://www.facebook.com/dhawal.singh.524/
+  instalink: https://www.instagram.com/notdhawal/
+convener34:
+  name: Ameya Vikrama Singh
+  image: 
+  instalink: https://www.instagram.com/joester1789/
+convener33:
+  name: Anand Narasimhan
+  image: 
+  instalink: https://www.instagram.com/not_quite_anand/
+convener32:
+  name: Jainam Sanghvi
+  image: 
+  instalink: https://www.instagram.com/jainamsanghvi.js/
+convener31:
+  name: Madhav Gupta
+  image: 
+  instalink: https://www.instagram.com/madhavgupta16/
+convener30:
+  name: Shivangi Kundu
+  image: 
+  instalink: https://www.instagram.com/shivangi_kundu13/
+convener29:
+  name: Vedika Rathi
+  image: 
+  instalink: https://www.instagram.com/vedika_rathi_11/
 convener28:
   name: Tharun Mahesh
   image: convener28.jpg
