@@ -40,3 +40,13 @@ We look forward to receiving some amazing posts from you soon!
 
 *Website has been created by Parth Jatakia ( Convener 2016-17 ) and Dhruv Shah ( Convener 2016-17 ).*
 *Contributions made by Sahil Adane ( Convener 2017-18 ), Aryaman Maithani ( Convener 2019-20 ) and Aravind Bharathi ( Convener 2020-21 ).*
+
+
+
+
+
+
+
+Sara- convener applicant 2024
+I wrote an html file, in the class gallery, I added a class- year and so on- I used css for better visuals- sorry, that was the least and bare minimum!
+I tried to search to create buttons, then finally I just uploaded "Gallery" to the main repository, and in the file, navigation.yml- directed it to the "Gallery". 
